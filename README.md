@@ -31,7 +31,7 @@ uvicorn main:app --reload
 
 > OBS: _Tem que estar sendo rodado na pasta em que estão os arquivos da API. Caso não esteja, usar o comando "cd" para mudar até o diretório que contém os 3 arquivos._
 
-![alt text]()
+![alt text](Exemplo.jpg)
 
 ----------------------------------------------------------------------------
 
